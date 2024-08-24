@@ -13,3 +13,4 @@ Python
 
 The project is done in Jupyter notebooks.
 
+1. Data extraction. Data from the large xlxs file stored in the reetrxlxs.rtf is filtered out, so that only legal entities that work in construction and that represent enterprises of small or medium size remains. This is done using Power Query in Excel.
