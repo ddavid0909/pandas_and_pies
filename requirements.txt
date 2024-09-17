@@ -2,7 +2,9 @@ jupyter
 numpy
 pandas
 geopandas
+geodatasets
 matplotlib
 seaborn
 requests
 openpyxl
+missingno
